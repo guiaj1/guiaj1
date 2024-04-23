@@ -40,7 +40,6 @@
 [<img align="left" alt="Microsoft Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" />](https://www.alexgui.com)
 [<img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />](https://www.alexgui.com)
 [<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />](https://www.alexgui.com)
-[<img align="left" alt="Microsoft Office" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" style="padding-right:10px;" />](https://www.alexgui.com)
 
 <br />
 <br />
