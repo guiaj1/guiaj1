@@ -1,16 +1,17 @@
-# Hi there, I'm Josef - aka [Guiaj1][portfolio] 👋
+# Hi there, I'm Alex - aka [Guiaj1][portfolio] 👋
 
 [![Website](https://img.shields.io/website?label=alexgui.com&style=for-the-badge&url=https%3A%2F%2Fwww.alexgui.com)](https://www.alexgui.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/guiaj1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=guiaj1)
 
-## I'm a Developer, Writer, and Lifelong Learner!
+## I'm a Developer, Author, and Enthusiast of all things Tech and Storytelling!
 
-- 📚 Currently pursuing a Master of Science in Information Technology at Florida State University.
-- 🔭 Check out my latest projects on [my portfolio](https://www.alexgui.com).
-- 🌱 I’m continually learning more about web development and software engineering.
-- 👯 I’m looking to collaborate with other developers and content creators.
+- 🎓 Pursuing a Master of Science in Information Technology at Florida State University.
+- 📘 Bachelor of Applied Science in Information Technology from Broward College.
+- 🔭 I’m currently working on web development projects that integrate advanced JavaScript frameworks and back-end technologies.
+- 🌱 Continuously learning about cloud computing and software architecture to enhance scalability and performance of applications.
+- 👯 Looking to collaborate with other creative tech enthusiasts.
 - 🥅 2024 Goals: Master advanced web development frameworks.
-- ⚡ Fun fact: I also write novels and short stories under a pseudonym.
+- ⚡ Fun fact: Apart from coding, I enjoy gaming, tabletop RPGs, and collecting Magic: The Gathering cards.
 
 ### Connect with me:
 
