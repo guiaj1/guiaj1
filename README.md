@@ -1,4 +1,4 @@
-# Hi there, I'm Alex - aka [Guiaj1][portfolio] 👋
+# Hi there, I'm Josef - aka [Guiaj1][portfolio] 👋
 
 [![Website](https://img.shields.io/website?label=alexgui.com&style=for-the-badge&url=https%3A%2F%2Fwww.alexgui.com)](https://www.alexgui.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/guiaj1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=guiaj1)
