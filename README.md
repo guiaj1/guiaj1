@@ -15,18 +15,10 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.alexgui.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.alexgui.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/guiaj1#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/guiaj1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/guiaj1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/guiaj1#gh-dark-mode-only)
+alexgui.com
 
 ### Languages and Tools:
 
-[<img align="left" alt="Adobe Creative Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" style="padding-right:10px;" />](https://www.adobe.com/creativecloud.html)
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
 [<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com)
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -35,7 +27,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />](https://jquery.com)
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />](https://www.linux.org)
-[<img align="left" alt="Microsoft Excel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" style="padding-right:10px;" />](https://www.microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org)
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net)
